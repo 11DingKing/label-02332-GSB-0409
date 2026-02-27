@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/theme.qss</file>
+        <file>icons/minesweeper.svg</file>
+        <file>icons/snake.svg</file>
+        <file>icons/gomoku.svg</file>
+        <file>icons/reversi.svg</file>
+        <file>icons/tetris.svg</file>
+        <file>icons/history.svg</file>
+        <file>icons/back.svg</file>
+        <file>icons/flag.svg</file>
+        <file>icons/mine.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,52 @@
+# IDE
+.idea/
+.vscode/
+.cursor/
+.kiro/
+*.iml
+
+# Build
+build/
+cmake-build-*/
+*.o
+*.obj
+*.moc
+*.qrc.cpp
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment
+.env
+.env.local
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Qt
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Python
+__pycache__/
+venv/
+.venv/
+*.pyc
+
+# === AllGood SOP 流程产物（非项目交付物，勿提交） ===
+draft.md
+*-report.md
+.port-overrides.json
+.sop-summary.md
+.allgood-sop
